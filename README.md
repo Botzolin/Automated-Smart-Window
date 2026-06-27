@@ -1,5 +1,5 @@
 # Automatic-Window-Opener
-University project developed for the **Automation Equipment and Methods (MEA)** course.
+University project developed for the **Electric Machines and Drives (MEA)** course.
  
 ## Description
  
